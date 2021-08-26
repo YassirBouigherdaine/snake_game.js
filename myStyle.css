@@ -1,0 +1,26 @@
+﻿.myGrid {
+    width: 200px;
+    height: 200px;
+    display: flex;
+    flex-wrap: wrap;
+    border:2px solid;
+}
+
+    .myGrid div {
+        width: 20px;
+        height: 20px;
+    }
+
+button{
+    background-color:coral;
+}
+
+.snake {
+    background-color: seagreen;
+    border-radius: 30%;
+}
+
+.apple {
+    background-color:crimson;
+    border-radius:20%;
+}
